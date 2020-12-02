@@ -1,0 +1,15 @@
+{
+  "name": "python-opencv-zxing",
+  "version": "1.0.0",
+  "description": "pip3 install numpy opencv-python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zxing/library": "0.18.3",
+    "jpeg-js": "^0.4.2"
+  }
+}
